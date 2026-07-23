@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="71" viewBox="0 0 196 71" fill="none"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><g clip-path="url(#clip0_272_2)">
+<path d="M196 0.435059H168.326V23.7532H196V0.435059Z" fill="black"></path>
+<path d="M195.989 70.9094H168.348C168.348 59.8273 157.449 50.8418 144.007 50.8418V50.8682H127.008V70.8477H98.7249V0.206055H127.008V28.0522H144.007C172.718 28.0522 195.989 47.2388 195.989 70.9094Z" fill="black"></path>
+<path d="M95.0813 0.250244V70.8919H69.3735V50.7979H52.3738C38.9322 50.7979 28.0336 59.7922 28.0336 70.8743H0.402527C0.402527 58.4356 6.82414 47.239 17.0923 39.4075C6.82414 31.5761 0.402527 20.3795 0.402527 7.94075V0.250244H28.0443V7.94075C28.0443 19.0228 38.9429 28.0083 52.3845 28.0083V27.9819H69.3841V0.250244H95.092H95.0813Z" fill="black"></path>
+</g><defs>
+<clipPath id="clip0_272_2">
+<rect width="196" height="71" fill="white"></rect>
+</clipPath>
+</defs><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: invert(100%); } }
+</style></svg>

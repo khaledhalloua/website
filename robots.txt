@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Disallow draft or asset folders if applicable
+Disallow: /assets/private/
+
+# Sitemap Location
+Sitemap: https://yourdomain.com/sitemap.xml
