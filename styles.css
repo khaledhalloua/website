@@ -301,7 +301,7 @@ body {
 ---------------------------------------- */
 @keyframes fadeUp {
   from {
-    opacity: 0;
+    opacity: 0.01;
     transform: translateY(24px);
   }
   to {
@@ -312,7 +312,7 @@ body {
 
 @keyframes maskRise {
   from {
-    opacity: 0;
+    opacity: 0.01;
     transform: translateY(100%);
   }
   to {
@@ -326,7 +326,7 @@ body {
 .animate-subtitle,
 .animate-tags,
 .animate-footer {
-  opacity: 0;
+  opacity: 0.01;
   animation-fill-mode: forwards;
   animation-timing-function: var(--ease-editorial);
 }
